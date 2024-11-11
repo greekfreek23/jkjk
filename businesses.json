@@ -1,0 +1,23 @@
+{
+  "test1": {
+    "businessName": "Above & Beyond Air Conditioning & Heating",
+    "fullAddress": "13750 San Pedro Avenue, San Antonio, TX 78232",
+    "city": "San Antonio",
+    "state": "TX",
+    "phone": "+1 210-794-9895",
+    "description": "Locally owned San Antonio AC Repair business with over 60 years of combined experience. FREE Estimates, FREE 2nd opinions, 18% Military and Veteran Discounts, Senior Citizen Discounts.",
+    "email": "coffeyt83@yahoo.com",
+    "workingHours": "Open 24 hours"
+  },
+  "test2": {
+    "businessName": "ABC Home & Commercial Services",
+    "fullAddress": "10644 I-35 Frontage Rd, San Antonio, TX 78233",
+    "city": "San Antonio",
+    "state": "TX",
+    "phone": "+1 210-637-4623",
+    "description": "ABC is an award-winning provider of home and commercial pest control, air conditioning, heating, lawn care, and more.",
+    "email": "contact@abchome.com",
+    "workingHours": "Open 24 hours"
+  }
+  // Add more businesses as needed
+}
