@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Business Data Repository</title>
+</head>
+<body>
+  <h1>Business Data Repository</h1>
+  <p>This repository hosts the businesses.json file for dynamic content loading.</p>
+</body>
+</html>
